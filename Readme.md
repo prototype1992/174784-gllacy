@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Юлия Сударикова](https://up.htmlacademy.ru/htmlcss/13/user/174784).
-* Наставник: `Неизвестно`.
+* Наставник: `https://htmlacademy.ru/profile/id13948`.
 
 ---
 
